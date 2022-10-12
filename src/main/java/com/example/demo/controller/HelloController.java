@@ -14,4 +14,8 @@ public class HelloController {
         return "hello";
     }
 
+
+    public String helloWordtest(){
+        return "test";
+    }
 }

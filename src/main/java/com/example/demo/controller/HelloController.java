@@ -16,6 +16,6 @@ public class HelloController {
 
 
     public String helloWordtest(){
-        return "test";
+        return "test1";
     }
 }
